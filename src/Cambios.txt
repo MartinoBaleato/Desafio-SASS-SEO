@@ -1,0 +1,1 @@
+le aplique el SEO a la pagina y agregue el extend y el map-get
